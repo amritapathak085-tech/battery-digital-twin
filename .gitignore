@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# ML generated files
+*.pkl
+*.joblib
+
+# Mac
+.DS_Store
